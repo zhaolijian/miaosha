@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0824e2f3-b049-4701-adea-d93491d04d72" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ljEV8ue5cEHNyRDEoNDgodnaRw" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0824e2f3-b049-4701-adea-d93491d04d72" name="Default Changelist" comment="" />
+      <created>1608102120598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608102120598</updated>
+      <workItem from="1608102121735" duration="8753000" />
+      <workItem from="1608123046003" duration="2384000" />
+      <workItem from="1608187697553" duration="3632000" />
+      <workItem from="1608272475650" duration="6350000" />
+      <workItem from="1608361089092" duration="3715000" />
+      <workItem from="1608450734569" duration="1154000" />
+      <workItem from="1608454364443" duration="4395000" />
+      <workItem from="1608723375520" duration="31000" />
+      <workItem from="1610698374050" duration="1632000" />
+      <workItem from="1610804541728" duration="1424000" />
+      <workItem from="1610843222490" duration="286000" />
+      <workItem from="1610871770412" duration="1406000" />
+      <workItem from="1610980741822" duration="102000" />
+      <workItem from="1611112353810" duration="2405000" />
+      <workItem from="1611127602891" duration="1025000" />
+      <workItem from="1611129356793" duration="587000" />
+      <workItem from="1611398016670" duration="4370000" />
+      <workItem from="1611452593086" duration="579000" />
+      <workItem from="1611469783987" duration="387000" />
+      <workItem from="1611471368702" duration="571000" />
+      <workItem from="1611552099185" duration="523000" />
+      <workItem from="1611556432598" duration="961000" />
+      <workItem from="1611561461682" duration="413000" />
+      <workItem from="1611934272190" duration="3293000" />
+      <workItem from="1611984011571" duration="7254000" />
+      <workItem from="1612418819024" duration="6514000" />
+      <workItem from="1612426388953" duration="348000" />
+      <workItem from="1612438136187" duration="480000" />
+      <workItem from="1612445771735" duration="310000" />
+      <workItem from="1612509912978" duration="1982000" />
+      <workItem from="1612526585038" duration="187000" />
+      <workItem from="1612526830643" duration="958000" />
+      <workItem from="1612528150310" duration="1830000" />
+      <workItem from="1612688833442" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612526916779">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.0.1024.768/0.0.1680.1050@0.0.1680.1050" timestamp="1612526916779" />
+    <state x="542" y="302" width="595" height="474" key="find.popup" timestamp="1611995916531">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="542" y="302" width="595" height="474" key="find.popup/1680.0.1024.768/0.0.1680.1050@0.0.1680.1050" timestamp="1611995916531" />
+    <state x="542" y="302" width="595" height="474" key="find.popup/1680.25.1024.743/0.0.1680.1050@0.0.1680.1050" timestamp="1611400351562" />
+    <state x="639" y="403" key="scopes" timestamp="1611400322959">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="639" y="403" key="scopes/1680.25.1024.743/0.0.1680.1050@0.0.1680.1050" timestamp="1611400322959" />
+  </component>
+</project>

@@ -1,0 +1,41 @@
+server:
+  port: 9000
+  tomcat:
+    accept-count: 1000   # 等待队列长度
+    max-threads: 200     # 1核2G的最大线程数经验值为200,4核8G经验值为800,如果线程数太多,那么线程切换占用太多时间,反而是个拖累
+    min-spare-threads: 100   # 为了解决突发容量问题,先开100个线程先用着
+
+spring:
+  datasource:
+    name: miaosha
+    url: jdbc:mysql://localhost:3306/miaosha?characterEncoding=utf8&useSSL=false
+    username: root
+    password: 123456
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.jdbc.Driver
+  mvc:
+    # 使能够捕获NoHandlerFoundException异常，否则如果no handler的话会抛出springboot自带的错误信息，比如404
+    throw-exception-if-no-handler-found: true
+    # 只加上面的一条还不能生效，因为spring会默认加上ResourceHttpRequestHandler，也就不会出现no handler的情况
+  resources:
+    add-mappings: false
+  # 配置springboot对redis的依赖
+  redis:
+    host: localhost
+    port: 6379
+    # 一共16个数据库
+    database: 10
+    jedis:
+      pool:
+        # 最大连接数为50
+        max-active: 50
+        # 最少空闲连接数为20
+        min-idle: 20
+
+mybatis:
+  mapper-locations: classpath:mapping/*.xml
+
+mq:
+  nameserver:
+    addr: 192.168.145.8:9876
+  topicname: stock

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="307327d6-b7a7-4952-96b0-fb3993eedf4a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lftEdpmMbDphOKV4UTAMl1ekCE" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.25086308" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.App">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="miaosha [mybatis-generator:generate]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="miaosha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kenai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kenai.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.miaosha [mybatis-generator:generate]" />
+      <item itemvalue="Spring Boot.App" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="307327d6-b7a7-4952-96b0-fb3993eedf4a" name="Default Changelist" comment="" />
+      <created>1607999866120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607999866120</updated>
+      <workItem from="1607999867301" duration="9191000" />
+      <workItem from="1608018903560" duration="10420000" />
+      <workItem from="1608101105311" duration="595000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="226" width="1204" height="703" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608101935950">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="312" y="226" width="1204" height="703" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.0.1024.768/0.0.1680.1050@0.0.1680.1050" timestamp="1608101935950" />
+    <state x="653" y="232" key="#com.intellij.ide.util.MemberChooser" timestamp="1608035998695">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="653" y="232" key="#com.intellij.ide.util.MemberChooser/1680.0.1024.768/0.0.1680.1050@0.0.1680.1050" timestamp="1608035998695" />
+    <state x="578" y="277" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608017392098">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="277" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1680.0.1024.768/0.0.1680.1050@0.0.1680.1050" timestamp="1608017392098" />
+    <state width="1638" height="364" key="GridCell.Tab.0.bottom" timestamp="1608040180603">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="335" key="GridCell.Tab.0.bottom/1680.0.1024.768/0.0.1680.1050@0.0.1680.1050" timestamp="1608040116517" />
+    <state width="1638" height="364" key="GridCell.Tab.0.bottom/1680.25.1024.743/0.0.1680.1050@0.0.1680.1050" timestamp="1608040180603" />
+    <state width="1638" height="364" key="GridCell.Tab.0.center" timestamp="1608040180601">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="335" key="GridCell.Tab.0.center/1680.0.1024.768/0.0.1680.1050@0.0.1680.1050" timestamp="1608040116516" />
+    <state width="1638" height="364" key="GridCell.Tab.0.center/1680.25.1024.743/0.0.1680.1050@0.0.1680.1050" timestamp="1608040180601" />
+    <state width="1638" height="364" key="GridCell.Tab.0.left" timestamp="1608040180600">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="335" key="GridCell.Tab.0.left/1680.0.1024.768/0.0.1680.1050@0.0.1680.1050" timestamp="1608040116515" />
+    <state width="1638" height="364" key="GridCell.Tab.0.left/1680.25.1024.743/0.0.1680.1050@0.0.1680.1050" timestamp="1608040180600" />
+    <state width="1638" height="364" key="GridCell.Tab.0.right" timestamp="1608040180602">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="335" key="GridCell.Tab.0.right/1680.0.1024.768/0.0.1680.1050@0.0.1680.1050" timestamp="1608040116516" />
+    <state width="1638" height="364" key="GridCell.Tab.0.right/1680.25.1024.743/0.0.1680.1050@0.0.1680.1050" timestamp="1608040180602" />
+    <state width="1638" height="364" key="GridCell.Tab.1.bottom" timestamp="1608040180606">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="335" key="GridCell.Tab.1.bottom/1680.0.1024.768/0.0.1680.1050@0.0.1680.1050" timestamp="1608040116520" />
+    <state width="1638" height="364" key="GridCell.Tab.1.bottom/1680.25.1024.743/0.0.1680.1050@0.0.1680.1050" timestamp="1608040180606" />
+    <state width="1638" height="364" key="GridCell.Tab.1.center" timestamp="1608040180604">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="335" key="GridCell.Tab.1.center/1680.0.1024.768/0.0.1680.1050@0.0.1680.1050" timestamp="1608040116518" />
+    <state width="1638" height="364" key="GridCell.Tab.1.center/1680.25.1024.743/0.0.1680.1050@0.0.1680.1050" timestamp="1608040180604" />
+    <state width="1638" height="364" key="GridCell.Tab.1.left" timestamp="1608040180603">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="335" key="GridCell.Tab.1.left/1680.0.1024.768/0.0.1680.1050@0.0.1680.1050" timestamp="1608040116518" />
+    <state width="1638" height="364" key="GridCell.Tab.1.left/1680.25.1024.743/0.0.1680.1050@0.0.1680.1050" timestamp="1608040180603" />
+    <state width="1638" height="364" key="GridCell.Tab.1.right" timestamp="1608040180605">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="335" key="GridCell.Tab.1.right/1680.0.1024.768/0.0.1680.1050@0.0.1680.1050" timestamp="1608040116519" />
+    <state width="1638" height="364" key="GridCell.Tab.1.right/1680.25.1024.743/0.0.1680.1050@0.0.1680.1050" timestamp="1608040180605" />
+    <state width="1638" height="364" key="GridCell.Tab.2.bottom" timestamp="1608040180610">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.2.bottom/1680.0.1024.768/0.0.1680.1050@0.0.1680.1050" timestamp="1608034228226" />
+    <state width="1638" height="364" key="GridCell.Tab.2.bottom/1680.25.1024.743/0.0.1680.1050@0.0.1680.1050" timestamp="1608040180610" />
+    <state width="1638" height="364" key="GridCell.Tab.2.center" timestamp="1608040180609">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.2.center/1680.0.1024.768/0.0.1680.1050@0.0.1680.1050" timestamp="1608034228225" />
+    <state width="1638" height="364" key="GridCell.Tab.2.center/1680.25.1024.743/0.0.1680.1050@0.0.1680.1050" timestamp="1608040180609" />
+    <state width="1638" height="364" key="GridCell.Tab.2.left" timestamp="1608040180606">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.2.left/1680.0.1024.768/0.0.1680.1050@0.0.1680.1050" timestamp="1608034228224" />
+    <state width="1638" height="364" key="GridCell.Tab.2.left/1680.25.1024.743/0.0.1680.1050@0.0.1680.1050" timestamp="1608040180606" />
+    <state width="1638" height="364" key="GridCell.Tab.2.right" timestamp="1608040180610">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.2.right/1680.0.1024.768/0.0.1680.1050@0.0.1680.1050" timestamp="1608034228225" />
+    <state width="1638" height="364" key="GridCell.Tab.2.right/1680.25.1024.743/0.0.1680.1050@0.0.1680.1050" timestamp="1608040180610" />
+    <state x="349" y="161" key="SettingsEditor" timestamp="1608017016679">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="349" y="161" key="SettingsEditor/1680.0.1024.768/0.0.1680.1050@0.0.1680.1050" timestamp="1608017016679" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1608030554363">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/1680.0.1024.768/0.0.1680.1050@0.0.1680.1050" timestamp="1608030554363" />
+  </component>
+</project>
